@@ -1,0 +1,3 @@
+[submodule "Waifu2X"]
+	path = Waifu2X
+	url = https://github.com/DeadSix27/waifu2x-converter-cpp.git
